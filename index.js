@@ -16,4 +16,3 @@ const encrypt = async text => {
 (async () => {
     await encrypt('samplepassword');
 })();
-
